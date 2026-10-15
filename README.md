@@ -1,6 +1,3 @@
-# customer_behavior_analysis
-data analytics project showcasing customer behavior analysis using python, sql and power BI 
-
 # 📊 End-to-End Data Analytics Project
 
 ## 📌 Overview
@@ -21,9 +18,9 @@ The goal is to transform raw data into meaningful insights that support data-dri
 ## 📁 Dataset
 
 - **Dataset Name:** `customer_shopping_behavior.csv`
-- **Source:** `[Dataset Source or Link]`
+- **Source:** https://github.com/SabdarAnsari05/customer_behavior_analysis/blob/main/customer_shopping_behavior.csv
 - **Format:** CSV / Excel
-- **Description:** The dataset contains information related to `[briefly describe your dataset and its business domain]`.
+- **Description:** This dataset contains customer shopping and purchasing information, including customer demographics, product categories, purchase amounts, discounts, payment methods, shopping frequency, and customer reviews. It can be used to analyze customer purchasing patterns, spending behavior, product preferences, and shopping trends.
 
 ## 🛠️ Tools & Technologies
 
@@ -91,53 +88,16 @@ The Power BI dashboard provides an interactive view of the project's key metrics
 <img width="935" height="595" alt="image" src="https://github.com/user-attachments/assets/eb40fc03-e1d2-481e-aa15-77224a0eb572" />
 
 
-Example:
+## 📊 Key Results & Insights
 
-`![Power BI Dashboard](images/dashboard.png)`
+The analysis explores customer purchasing patterns, product preferences, spending behavior, and sales performance to identify actionable business insights.
 
-## 🔍 Key Results & Insights
+- **Trend Analysis:** Analyzed customer shopping patterns and purchase frequency to understand buying behavior.
+- **Performance Insights:** Evaluated purchase amounts, discounts, and customer spending patterns to understand purchasing performance.
+- **Category Analysis:** Compared product categories to identify differences in customer preferences and purchasing activity.
+- **Customer Segmentation:** Explored customer demographics and shopping frequency to understand different customer groups.
+- **Business Recommendations:** Recommended using customer purchase patterns to improve marketing strategies, optimize discount campaigns, and deliver more targeted customer experiences.
 
-The analysis aims to identify meaningful patterns and actionable insights from the dataset.
-
-Key findings include:
-
-- **Trend Analysis:** `[Add an important trend discovered in the data]`
-- **Performance Insights:** `[Add a key performance finding]`
-- **Category Analysis:** `[Add a comparison between categories or segments]`
-- **Business Recommendations:** `[Add a recommendation supported by your analysis]`
-
-*Replace these placeholders with actual findings and, where possible, quantify the results.*
-
-## 📂 Repository Structure
-
-```text
-data-analytics-project/
-│
-├── data/
-│   ├── raw/
-│   └── cleaned/
-│
-├── notebooks/
-│   └── eda_and_data_cleaning.ipynb
-│
-├── sql/
-│   └── analysis_queries.sql
-│
-├── dashboard/
-│   ├── dashboard.pbix
-│   └── dashboard.png
-│
-├── reports/
-│   └── analytical_report.pdf
-│
-├── presentation/
-│   └── project_presentation.pdf
-│
-├── requirements.txt
-└── README.md
-```
-
-*Adjust the folder and file names to match your actual repository.*
 
 ## ⚙️ How to Run
 
@@ -150,8 +110,8 @@ data-analytics-project/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd data-analytics-project
+git clone https://github.com/SabdarAnsari05/customer_behavior_analysis.git
+cd dcustomer_behavior_analysis
 ```
 
 ### Step 2: Install Dependencies
@@ -210,8 +170,8 @@ pip install pandas numpy matplotlib seaborn jupyter
 
 **Sabdar Ansari**
 
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- GitHub: https://github.com/SabdarAnsari05?tab=repositories
+- LinkedIn: www.linkedin.com/in/sabdar-ansari
 
 ---
 
